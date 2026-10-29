@@ -1,6 +1,6 @@
 # GB Wind Forecast – Day-ahead Decision Support
 
-**Live app (Vercel):** <https://YOUR-APP-NAME.vercel.app> &nbsp;← replace with your deployment URL after Step 3 below.
+**Live app (Vercel):** <https://wind-dashboard-eight.vercel.app/> &nbsp;
 
 A full-stack web app (React + Python) that helps an energy utility's day-ahead power-buying team decide how much electricity to procure beyond forecast wind generation. Using Elexon BMRS data for national GB wind (January 2026 delivery days), it answers:
 
