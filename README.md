@@ -143,3 +143,6 @@ Optional: set `DEFAULT_CUTOFF` (e.g. `09:20`) under Project → Settings → Env
 - Error = forecast − actual; a positive value means wind was over-forecast (risk of under-buying).
 - The plausible range uses empirical error quantiles from the same month (in-sample). It is a practical guide, not a probabilistic forecast.
 - Scope is national wind only: no demand, other generation types or other data sources.
+
+## AI Tools used
+- Claude
